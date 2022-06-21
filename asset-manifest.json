@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swapi-reactv/static/css/main.ea26b6bb.css",
+    "main.js": "/swapi-reactv/static/js/main.c7b5b24e.js",
+    "static/js/787.c8088001.chunk.js": "/swapi-reactv/static/js/787.c8088001.chunk.js",
+    "static/media/descarga.png": "/swapi-reactv/static/media/descarga.36e9ffdd97a4d5a8ec3a.png",
+    "index.html": "/swapi-reactv/index.html",
+    "main.ea26b6bb.css.map": "/swapi-reactv/static/css/main.ea26b6bb.css.map",
+    "main.c7b5b24e.js.map": "/swapi-reactv/static/js/main.c7b5b24e.js.map",
+    "787.c8088001.chunk.js.map": "/swapi-reactv/static/js/787.c8088001.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea26b6bb.css",
+    "static/js/main.c7b5b24e.js"
+  ]
+}
